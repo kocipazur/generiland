@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YXu1LJjCn/dkWg73w8MC9GqzjXjw54+qAaOD61HTBiKdZmZY7CLctyPomibwYb8qSx5PjmTuGNfAcETYh/Ew6w==",
+  "dgSpecHash": "vJGBtJbzWCcw8GJaTEquN4RJ3b+gbuI7yK1hqeYlrVLlCb9igOwfaQ8rPSQMJ62LQP+hS0rgIzh9bfi/moKxYw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\natur\\source\\repos\\Generiland_Server\\Tests\\Presentation.Tests.csproj",
+  "projectFilePath": "C:\\Users\\natur\\Source\\Repos\\generiland\\Tests\\Api.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\natur\\.nuget\\packages\\coverlet.collector\\1.3.0\\coverlet.collector.1.3.0.nupkg.sha512",
     "C:\\Users\\natur\\.nuget\\packages\\microsoft.codecoverage\\16.7.1\\microsoft.codecoverage.16.7.1.nupkg.sha512",

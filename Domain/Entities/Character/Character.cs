@@ -13,7 +13,7 @@ namespace Domain.Entities.Character
         public Character(string name)
         {
             Name = name;
-            State = new State { StateType = StateType.Idle };
+            State = new State { StateType = StateTypeEnum.Idle };
         }
     }
 }

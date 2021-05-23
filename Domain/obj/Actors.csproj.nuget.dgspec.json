@@ -1,21 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\natur\\source\\repos\\Generiland_Server\\Domain\\Actors.csproj": {}
+    "C:\\Users\\natur\\Source\\Repos\\generiland\\Domain\\Actors.csproj": {}
   },
   "projects": {
-    "C:\\Users\\natur\\source\\repos\\Generiland_Server\\Domain\\Actors.csproj": {
+    "C:\\Users\\natur\\Source\\Repos\\generiland\\Domain\\Actors.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\natur\\source\\repos\\Generiland_Server\\Domain\\Actors.csproj",
+        "projectUniqueName": "C:\\Users\\natur\\Source\\Repos\\generiland\\Domain\\Actors.csproj",
         "projectName": "Actors",
-        "projectPath": "C:\\Users\\natur\\source\\repos\\Generiland_Server\\Domain\\Actors.csproj",
+        "projectPath": "C:\\Users\\natur\\Source\\Repos\\generiland\\Domain\\Actors.csproj",
         "packagesPath": "C:\\Users\\natur\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\natur\\source\\repos\\Generiland_Server\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\natur\\Source\\Repos\\generiland\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
           "C:\\Users\\natur\\AppData\\Roaming\\NuGet\\NuGet.Config",

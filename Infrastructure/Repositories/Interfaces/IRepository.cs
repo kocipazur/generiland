@@ -2,10 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Domain.Character.Enums
+namespace Infrastructure.Repositories.Interfaces
 {
-    public enum StateTypeEnum
+    interface IRepository
     {
-        Idle = 0
     }
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0i7eYN1JkIRvBpHCqhM4Fr8jJcWDgo7lIVJbTFYeYM6TzdxERT7h3DwTERk+RZa1u137dk2pSqQIAYmIp+tsSw==",
+  "dgSpecHash": "K8Iys001Hak8LgLB7RJweqFh3iQKU1kvThXSU9TcXr5DK2eOiTOMHsenYNyvdhZzbBMvc11ivuzU04A+zwX7tQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\natur\\source\\repos\\Generiland_Server\\Domain\\Actors.csproj",
+  "projectFilePath": "C:\\Users\\natur\\Source\\Repos\\generiland\\Domain\\Actors.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
