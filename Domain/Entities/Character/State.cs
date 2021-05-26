@@ -1,6 +1,6 @@
-﻿using Domain.Character.Enums;
+﻿using Application.Character.Enums;
 
-namespace Domain.Character.Enums
+namespace Application.Character.Enums
 {
     public class State
     {

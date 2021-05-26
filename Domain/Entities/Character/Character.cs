@@ -1,9 +1,9 @@
-﻿using Domain.Character.Enums;
+﻿using Application.Character.Enums;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Domain.Entities.Character
+namespace Application.Entities.Character
 {
     public class Character
     {

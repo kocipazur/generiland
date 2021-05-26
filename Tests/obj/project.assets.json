@@ -5623,19 +5623,21 @@
   },
   "packageFolders": {
     "C:\\Users\\natur\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\natur\\Source\\Repos\\generiland\\Tests\\Api.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\natur\\source\\repos\\Generiland_Server\\Tests\\Api.Tests.csproj",
       "projectName": "Api.Tests",
-      "projectPath": "C:\\Users\\natur\\Source\\Repos\\generiland\\Tests\\Api.Tests.csproj",
+      "projectPath": "C:\\Users\\natur\\source\\repos\\Generiland_Server\\Tests\\Api.Tests.csproj",
       "packagesPath": "C:\\Users\\natur\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\natur\\Source\\Repos\\generiland\\Tests\\obj\\",
+      "outputPath": "C:\\Users\\natur\\source\\repos\\Generiland_Server\\Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
         "C:\\Users\\natur\\AppData\\Roaming\\NuGet\\NuGet.Config",

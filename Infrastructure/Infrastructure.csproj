@@ -17,19 +17,4 @@
     <ProjectReference Include="..\Domain\Domain.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Compile Update="Infrastructure.Designer.cs">
-      <DesignTimeSharedInput>True</DesignTimeSharedInput>
-      <AutoGen>True</AutoGen>
-      <DependentUpon>Infrastructure.settings</DependentUpon>
-    </Compile>
-  </ItemGroup>
-
-  <ItemGroup>
-    <None Update="Infrastructure.settings">
-      <Generator>SettingsSingleFileGenerator</Generator>
-      <LastGenOutput>Infrastructure.Designer.cs</LastGenOutput>
-    </None>
-  </ItemGroup>
-
 </Project>
