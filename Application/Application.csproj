@@ -6,6 +6,7 @@
 
   <ItemGroup>
     <Folder Include="Commands\" />
+    <Folder Include="DataTransferObjects\" />
     <Folder Include="Queries\" />
     <Folder Include="Services\Interfaces\" />
   </ItemGroup>

@@ -22,7 +22,7 @@ namespace Api.Controllers.Actors
         [HttpPost]
         public async Task MyAction(CancellationToken cancellationToken)
         {
-            await _mediator.Publish(new ExampleEvent("Dante"), cancellationToken);
+            await _mediator.Publish(new ExampleEvent("Example message"), cancellationToken);
         }
     }
 }

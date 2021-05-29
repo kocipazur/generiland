@@ -9,21 +9,19 @@
   },
   "packageFolders": {
     "C:\\Users\\natur\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\natur\\source\\repos\\Generiland_Server\\Domain\\Domain.csproj",
+      "projectUniqueName": "c:\\Users\\natur\\source\\repos\\generiland\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "C:\\Users\\natur\\source\\repos\\Generiland_Server\\Domain\\Domain.csproj",
+      "projectPath": "c:\\Users\\natur\\source\\repos\\generiland\\Domain\\Domain.csproj",
       "packagesPath": "C:\\Users\\natur\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\natur\\source\\repos\\Generiland_Server\\Domain\\obj\\",
+      "outputPath": "c:\\Users\\natur\\source\\repos\\generiland\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
         "C:\\Users\\natur\\AppData\\Roaming\\NuGet\\NuGet.Config",
